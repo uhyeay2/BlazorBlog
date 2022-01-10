@@ -1,0 +1,12 @@
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\bin\Debug\net5.0\MyBlogWebAssembly.Shared.deps.json
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\bin\Debug\net5.0\MyBlogWebAssembly.Shared.dll
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\bin\Debug\net5.0\ref\MyBlogWebAssembly.Shared.dll
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\bin\Debug\net5.0\MyBlogWebAssembly.Shared.pdb
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\obj\Debug\net5.0\MyBlogWebAssembly.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\obj\Debug\net5.0\MyBlogWebAssembly.Shared.AssemblyInfoInputs.cache
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\obj\Debug\net5.0\MyBlogWebAssembly.Shared.AssemblyInfo.cs
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\obj\Debug\net5.0\MyBlogWebAssembly.Shared.csproj.CoreCompileInputs.cache
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\obj\Debug\net5.0\MyBlogWebAssembly.Shared.dll
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\obj\Debug\net5.0\ref\MyBlogWebAssembly.Shared.dll
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\obj\Debug\net5.0\MyBlogWebAssembly.Shared.pdb
+C:\Users\daguirre\source\repos\MyBlog\MyBlogWebAssembly\Shared\obj\Debug\net5.0\MyBlogWebAssembly.Shared.csproj.AssemblyReference.cache

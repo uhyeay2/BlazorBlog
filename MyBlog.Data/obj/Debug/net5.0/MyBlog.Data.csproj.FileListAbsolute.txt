@@ -1,0 +1,15 @@
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\obj\Debug\net5.0\MyBlog.Data.csproj.AssemblyReference.cache
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\obj\Debug\net5.0\MyBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\obj\Debug\net5.0\MyBlog.Data.AssemblyInfoInputs.cache
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\obj\Debug\net5.0\MyBlog.Data.AssemblyInfo.cs
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\obj\Debug\net5.0\MyBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\bin\Debug\net5.0\MyBlog.Data.deps.json
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\bin\Debug\net5.0\MyBlog.Data.runtimeconfig.json
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\bin\Debug\net5.0\MyBlog.Data.runtimeconfig.dev.json
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\bin\Debug\net5.0\MyBlog.Data.dll
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\bin\Debug\net5.0\ref\MyBlog.Data.dll
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\bin\Debug\net5.0\MyBlog.Data.pdb
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\obj\Debug\net5.0\MyBlog.Data.dll
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\obj\Debug\net5.0\ref\MyBlog.Data.dll
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\obj\Debug\net5.0\MyBlog.Data.pdb
+C:\Users\daguirre\source\repos\MyBlog\MyBlog.Data\obj\Debug\net5.0\MyBlog.Data.genruntimeconfig.cache

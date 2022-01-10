@@ -1,0 +1,43 @@
+﻿@page "/"
+@namespace MyBlogServerSide.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyBlogServerSide</title>
+    <!-- The base tag makes sure that your pages will find the Blazor SignalR hub. -->
+    <base href="~/" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <link href="css/site.css" rel="stylesheet" />
+    <link href="MyBlogServerSide.styles.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- Page 59 discusses the differences between the five render-modes.
+            ServerPrerendered, Server, Static, WebAssembly, and WebAssemblyPrerendered -->
+    <component type="typeof(App)" render-mode="ServerPrerendered" />
+
+    <!-- This will create an error UI pop up letting you know to check the console (when in Development)
+            if the JavaScript has stopped running and the SignalR connection fails -->
+    <div id="blazor-error-ui">
+        <environment include="Staging,Production">
+            An error has occurred. This application may no longer respond until reloaded.
+        </environment>
+        <environment include="Development">
+            An unhandled exception has occurred. See browser dev tools for details.
+        </environment>
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+
+    <!-- This will create a SignalR connection to the server
+            and is responsible for updating the DOM from the server
+            and sending triggers back to the server. -->
+    <script src="_framework/blazor.server.js"></script>
+</body>
+</html>
